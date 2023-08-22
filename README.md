@@ -1,3 +1,25 @@
+# A basic app to test ideas
+
+- Will be forked and whatnot to make more fleshed out projects
+- Built to help me learn
+- Will have an accompanying backend
+
+## Ideas
+
+- Recipy app
+
+  - Have users create and post their own recipies
+  - Accounts can favourite recipies
+  - Accounts can create recipies
+  - Can browse recipies
+  - To be continued first as it can be started now
+
+- Draw app
+  - Make my own take on a drawing app
+  - Have area to draw onto
+  - Have pre built shapes etc
+  - To be continued
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
